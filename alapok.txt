@@ -1,6 +1,9 @@
-ng generate 'név'
+ng generate component 'component név'
 ng add @angular/material
 	deep purple
+	
 npm install --save bootstrap
+@import "~bootstrap/scss/bootstrap"; -- ezt a main css-be
+
 ng generate class 'név'
 	(add)  providers 'class név'
