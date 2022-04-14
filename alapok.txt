@@ -1,0 +1,6 @@
+ng generate 'név'
+ng add @angular/material
+	deep purple
+npm install --save bootstrap
+ng generate class 'név'
+	(add)  providers 'class név'
